@@ -4,7 +4,7 @@
 """
 ✘ Flirt Slangs (bangla)
 
-> CMD: `{i}nil`
+> CMD: `{i}samil`
 """
 
 from random import choice
@@ -27,7 +27,7 @@ lst = [
 ]
    
 
-@ultroid_cmd(pattern="nil$")
+@ultroid_cmd(pattern="samil$")
 async def bflirt(event):
     m = await event.eor("একটু শুনবা?.")
     await sleep(3)
