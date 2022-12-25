@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-REPO="https://github.com/nahid-nil/Ultroidbot.git"
+REPO="https://github.com/ThePr3miumBoy/ThePr3miumSamilXUltroidbot.git"
 DIR="/root/TeamUltroid"
 
 spinner(){
