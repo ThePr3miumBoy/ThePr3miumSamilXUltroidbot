@@ -50,8 +50,8 @@ upage = 0
 
 SUP_BUTTONS = [
     [
-        Button.url("• Repo •", url="t.me/The_Pr3mium_Boy"),
-        Button.url("• Support •", url="t.me/UltroidSupportChat"),
+        Button.url("• Repo •", url="https://github.com/ThePr3miumBoy/ThePr3miumSamilXUltroidbot"),
+        Button.url("• Support •", url="t.me/The_Pr3mium_Boy"),
     ],
 ]
 
